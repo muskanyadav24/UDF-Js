@@ -42,7 +42,7 @@ This repository demonstrates **functions with arguments, without arguments, with
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/UDF-Js.git
+   git clone https://github.com/<muskanyadav24>/UDF-Js.git
 
 ## 📸 Screenshot
 
