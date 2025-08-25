@@ -52,3 +52,5 @@ Here’s how the calculator looks:
 <img width="958" height="209" alt="image" src="https://github.com/user-attachments/assets/e4399313-7d5f-4b04-a6e4-670d025c49ee" />
 
 
+
+
